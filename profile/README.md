@@ -1,6 +1,6 @@
-# Codify
-
-Internal Competitive Programming Platform for PSBB Siruseri Coding Club
+<p align="center">
+  <img src="../assets/logo.png" alt="Codify wordmark" width="420">
+</p>
 
 ---
 
