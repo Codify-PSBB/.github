@@ -4,8 +4,6 @@
 
 ---
 
-## Codify
-
 Codify is an internal competitive programming platform used by the PSBB Siruseri Coding Club to run coding competitions in the school computer lab.
 
 The system focuses on simplicity, reliability, and fast admin workflows rather than automated judging or large contest infrastructure.
