@@ -1,8 +1,8 @@
+---
+
 <p align="center">
   <img src="../assets/logo.png" alt="Codify wordmark" width="420">
 </p>
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/runtime-Cloudflare%20Workers-orange">
