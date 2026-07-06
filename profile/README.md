@@ -1,17 +1,9 @@
----
+
 
 <p align="center">
-  <img src="../assets/logo.png" alt="Codify wordmark" width="420">
+  <img src="https://raw.githubusercontent.com/kaadipranav/kaadipranav/refs/heads/main/assets/img4.png">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/runtime-Cloudflare%20Workers-orange">
-  <img src="https://img.shields.io/badge/database-D1-lightgrey">
-  <img src="https://img.shields.io/badge/python-Pyodide-yellow">
-  <img src="https://img.shields.io/badge/auth-Clerk-purple">
-</p>
-
----
 
 Codify is an internal competitive programming platform used by the PSBB Siruseri Coding Club to run coding competitions in the school computer lab.
 
