@@ -194,6 +194,3 @@ The goal is to keep Codify simple, stable, and easy to run during real competiti
 
 ---
 
-## In One Sentence
-
-Codify is a lightweight internal coding competition platform that allows student
