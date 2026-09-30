@@ -1,9 +1,8 @@
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/kaadipranav/kaadipranav/refs/heads/main/assets/img4.png">
 </p>
 
+---
 
 Codify is an internal competitive programming platform used by the PSBB Siruseri Coding Club to run coding competitions in the school computer lab.
 
